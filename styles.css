@@ -2,6 +2,10 @@ h1{
   font-size: 5rem;
   color: rgb(233, 232, 204);
   background: linear-gradient(to right, rgb(145, 42, 26), rgb(195, 203, 84));
+  border-radius: 70px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
 }
 
 body{
